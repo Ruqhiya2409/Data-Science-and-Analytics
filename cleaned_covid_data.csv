@@ -1,0 +1,11 @@
+date,country,confirmed,recovered,deaths
+2020-01-01,CountryA,0,0,0
+2020-01-02,CountryA,1,0,0
+2020-01-03,CountryA,3,1,0
+2020-01-04,CountryA,7,2,1
+2020-01-05,CountryA,10,3,1
+2020-01-01,CountryB,0,0,0
+2020-01-02,CountryB,2,0,0
+2020-01-03,CountryB,5,1,0
+2020-01-04,CountryB,9,3,1
+2020-01-05,CountryB,15,5,1
