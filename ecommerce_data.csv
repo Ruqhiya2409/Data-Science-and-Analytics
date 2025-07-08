@@ -1,0 +1,11 @@
+order_id,user_id,product,quantity,price,review,hour
+1,101,ProductA,2,20,4,10
+2,102,ProductB,1,15,5,12
+3,103,ProductA,3,20,3,15
+4,101,ProductC,1,30,4,18
+5,104,ProductB,2,15,5,11
+6,105,ProductA,1,20,4,17
+7,102,ProductC,2,30,3,19
+8,101,ProductB,1,15,5,20
+9,106,ProductA,4,20,2,21
+10,107,ProductC,1,30,4,13

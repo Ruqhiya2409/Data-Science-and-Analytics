@@ -1,0 +1,11 @@
+user_id,show_title,genre,watch_hours,rating
+101,ShowA,Drama,5,4
+102,ShowB,Comedy,2,5
+103,ShowC,Action,4,3
+101,ShowD,Drama,3,5
+102,ShowE,Comedy,4,4
+104,ShowF,Thriller,6,5
+101,ShowG,Action,2,3
+105,ShowH,Comedy,1,2
+103,ShowI,Drama,5,4
+104,ShowJ,Thriller,3,5
